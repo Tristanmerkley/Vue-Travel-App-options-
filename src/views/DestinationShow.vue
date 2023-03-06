@@ -29,7 +29,6 @@
 <script>
 import sourceData from "@/data.json";
 import ExperienceCard from "@/components/ExperienceCard.vue";
-import goBack from "@/components/GoBack.vue";
 import GoBack from "@/components/GoBack.vue";
 export default {
 	components: { ExperienceCard, GoBack, GoBack },
